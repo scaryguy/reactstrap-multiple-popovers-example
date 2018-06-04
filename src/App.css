@@ -1,0 +1,18 @@
+body {
+  background-color: #222;
+  font-family: monospace;
+}
+
+.popOverHeader {
+  font-size: 2em;
+}
+
+.App-header {
+  background-color: #222;
+  color: white;
+  text-align: center;
+}
+
+.App-header h1 {
+  font-size: 4em;
+}
